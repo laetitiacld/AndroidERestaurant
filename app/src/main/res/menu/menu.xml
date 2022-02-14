@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuButtonUser"
+        android:icon="@drawable/icon_user"
+        android:title="@string/menuUserTitle"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuButtonBasket"
+        android:title="@string/menuBasketTitle"
+        app:showAsAction="never"
+        app:actionLayout="@layout/custom_menu_item"
+        />
+
+
+
+
+
+</menu>

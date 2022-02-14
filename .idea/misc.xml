@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/drawable/roundcorner_rectangle.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_command.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_home.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_user.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/category_cell.xml" value="0.536" />
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Ange/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/menu/menu.xml" value="0.20052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
